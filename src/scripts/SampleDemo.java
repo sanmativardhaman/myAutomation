@@ -7,5 +7,6 @@ public class SampleDemo
 	{
 		System.out.println("changes to existing project to practice push code to git");
 		System.out.println("adding new line to commit from eclispe");
+		System.out.println("one more statment");
 	}
 }
